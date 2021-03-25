@@ -1,0 +1,18 @@
+1-create or login
+2-if create input"create username: "
+            input"create password: "
+3-
+
+class users:
+            ___self___(username,password)
+                self.username = username
+                self.password = password
+
+
+
+
+userN
+userN = newuser1 + newpassword1
+userN = newuser2 + newpassword2
+userN = newuser2 + newpassword1
+

@@ -1,0 +1,4 @@
+users = {}
+status = ""
+
+def createlogin():
